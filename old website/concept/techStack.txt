@@ -1,0 +1,14 @@
+UI -
+    Material UI 
+    react.js
+    react router dom
+
+
+Temp. Images -
+    https://unsplash.com/s/photos/splash
+
+Bundling-
+    vite
+
+For SEO -
+    react-helmet
